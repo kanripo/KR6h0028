@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 拔陂菩薩經
+#+DATE: 2015-08-30 20:07:00.909048
+#+PROPERTY: JUAN 0
